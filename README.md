@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-just start using a hello-world
+just start with a hello-world
